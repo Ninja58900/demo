@@ -1,2 +1,2 @@
 numbers <- runif(1000)
-hist(numbers)
+hist(numbers, col = "green")
